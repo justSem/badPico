@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "ALPS")(type "KiCad")(uri "${KIPRJMOD}/Resources/ALPS")(options "")(descr ""))
+  (lib (name "RPi")(type "KiCad")(uri "${KIPRJMOD}/Resources/Minimal/RP2040_minimal/RP2040_minimal.pretty")(options "")(descr ""))
+  (lib (name "Graphics")(type "KiCad")(uri "${KIPRJMOD}/Resources/Graphics/footprints.pretty")(options "")(descr ""))
+)
