@@ -1,7 +1,7 @@
 # badPico!
 An RP2040 mini-sized BadUSB clone
 
-[!front](Images/Board-Front.png)
+![front](Images/Board-Front.png)
 _Size: 19x39mm_
 
 This tiny (19x34mm) device is just a common "Rubber Ducky" clone.
