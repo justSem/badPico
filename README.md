@@ -19,7 +19,7 @@ However, due to the intended use-case the I/O pins are not available for usage w
 # PinOuts
 
 | Designator	| GPIO  |  Type 	| Description 							|
-|-------------------------------------------------------------------------------------------------------|
+| ------------- | ----- | ------------- | ------------------------------------------------------------- |
 |  D4		| 25	| LED		| Status LED  							|
 |  D3		| 24	| LED		| User-programmable LED 					|
 | SW1		| 0	| Switch	| User-programmable switch. I use it as an 'arming' switch 	| 
@@ -28,7 +28,7 @@ However, due to the intended use-case the I/O pins are not available for usage w
 
 # Bill of Materials (BoM)
 | Name	| Designator	| Footprint	| Manufacturer		| Man. Part No.			|
-|-----------------------------------------------------------------------------------------------|
+| ----- | ------------- | ------------- | --------------------- | ----------------------------- |
 | 27pF	| C15,C16	| C0402		| FH			| 0402CG270J500NT		|
 | 100nF | C1-C9,C12	| C0402		| Yaego			| CC0402KRX7R7BB104		|
 | 1uF	| C10,C11	| C0402		| Samsung		| CL05A105KQ5NNNC		|
@@ -40,7 +40,7 @@ However, due to the intended use-case the I/O pins are not available for usage w
 | 100k	| R8		| R0402		| FH			| RS-03K104JT			|
 | Flash	| U1		| WSON-8	| Winbond Elec		| W25Q128JVPIQ			|
 | LDO	| U2		| TSOT-23-5	| Maxlinear		| SPX3819M5-L-3-3		|
-| RP2040| U3		| QFN-56	| Raspberry Pi		| RP2040			|
+| RP2040 | U3		| QFN-56	| Raspberry Pi		| RP2040			|
 | FET	| Q1		| SOT-24	| Vishay		| Si2319CDS			|
 | Diode	| D2		| SOD_123F	| Shandong		| 1N4002W			|
 | LEDs	| D3,D4		| D0402		| Everlight		| 17-21/BHC-XL2M2TY/3T		|
